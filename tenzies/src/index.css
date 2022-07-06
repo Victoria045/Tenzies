@@ -21,7 +21,7 @@ main {
 }
 
 .card {
-  background-color: #FFFFFF;
+  /* background-color: #FFFFFF; */
   width: 60px;
   height: 60px;
   display: flex;
@@ -41,4 +41,24 @@ main {
 
 .card-elem {
   font-size: 2rem;
+}
+
+.btn-roll {
+  background-color: #5035FF;
+  color: #FFFFFF;
+  margin-top: 40px;
+  padding: 10px 45px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.2rem;
+  font-family: 'Karla', sans-serif;
+  cursor: pointer;
+}
+
+.btn-roll:focus {
+  outline: none;
+}
+
+.btn-roll:active {
+  box-shadow: inset 5px 5px 10px -3px rgba(0, 0, 0, 0.7);
 }
