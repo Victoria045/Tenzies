@@ -16,10 +16,16 @@ main {
   padding: 20px;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  /* justify-content: center; */
+  justify-content: space-around;
   align-items: center;
 }
-
+.tenz {
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  margin-top: 0;
+  text-align: center;
+}
 .card {
   /* background-color: #FFFFFF; */
   width: 60px;
