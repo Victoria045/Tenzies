@@ -1,10 +1,8 @@
 # Tenzies
+This is a roll dice game built in React.
 
 # Author 
 [Victoria Beryl](https://github.com/Victoria045)
-
-## Description
-This is a roll dice game built in React.
 
 ## Design
 ![tenzie-img](https://user-images.githubusercontent.com/50333645/178216261-2ccb6870-0121-4949-abaf-b952f146bba4.png)
