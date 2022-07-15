@@ -9,7 +9,6 @@ This is a roll dice game built in React.
 
 #### Prerequisites 
 * react 18.2.0
-* react-dom 18.2.0
 * react-confetti 6.1.0
 
 ## Behaviour Driven Development
