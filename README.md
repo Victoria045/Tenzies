@@ -1,12 +1,11 @@
 # Tenzies
+This is a roll dice game built in React.
 
 # Author 
 [Victoria Beryl](https://github.com/Victoria045)
 
-## Description
-This is a roll dice game built in React.
-
-## Design
+## Screenshot
+![tenzie-img](https://user-images.githubusercontent.com/50333645/178216261-2ccb6870-0121-4949-abaf-b952f146bba4.png)
 
 #### Prerequisites 
 * react 18.2.0
@@ -18,7 +17,7 @@ This is a roll dice game built in React.
 | :---------------- | :---------------: | ------------------: |
 | Load the application | On application load | Display of the game |
 | Click the roll button | Click on the dice as holders in regard to the number of choice | The dice not selected are the once that will be changing |
-| Repeate the process | Select all the dice until they are all the same | End of game, option of starting the game over |
+| Repeate the process | Select all the dice until they are all the same | End of game, option of starting the game |
 
 # Setup and Installation
 #### Cloning the repository
